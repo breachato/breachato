@@ -3,7 +3,7 @@
 💻 **Minecraft Plugin Developer | Java Coder | Server Developer**
 Ciao! Sono Breach, sviluppatore appassionato di plugin per Minecraft. Mi occupo di creare soluzioni innovative per server, sviluppare sistemi personalizzati e ottimizzare le prestazioni di gioco, con l'obiettivo di offrire esperienze uniche e performanti.
 
- 💼 Esperienza
+### 💼 Esperienza
 
 **Helper @ AtlantisRP (Attuale)**
 
@@ -12,13 +12,13 @@ Ciao! Sono Breach, sviluppatore appassionato di plugin per Minecraft. Mi occupo 
 **Ex Grafico @ StaryMC**
 **Ex Builder @ StaryMC**
 
- 🛠️ Competenze Tecniche
+### 🛠️ Competenze Tecniche
 
 Linguaggi: Java, Spigot API, Paper API, Bukkit
 Tools: Git, Gradle
 Ambienti: Linux (Ubuntu/Debian), Windows Server
 
- **🌱 Progetti**
+### **🌱 Progetti**
 
 DistrictRP: Core del District Network, include sistemi, comandi e tant'altro per il corretto funzionamento della modalità Roleplay.
 CherryCore: Core Plugin, full staff system and some other standard utilities.
