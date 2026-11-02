@@ -15,7 +15,7 @@ Minecraft Java Edition, con un'ossessione per le prestazioni.
 ### Chi sono
 
 Sono Enea, uno sviluppatore italiano. Lavoro soprattutto su Minecraft Java Edition, sia lato server sia lato client.
-ㅤ
+
 Ho scritto server engine con hotswap delle classi, framework che reggono interi network roleplay e client custom ottimizzati all'estremo. Sono lead developer di **Next Roleplay** e fondatore di **Wave Studios**, il mio studio di sviluppo, build e grafica.
 In parallelo contribuisco a **Horizon**, Minecraft Java Edition riscritto in Rust, ed altri progetti che attualmente considero da tenere privati.
 
