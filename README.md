@@ -1,4 +1,3 @@
-ㅤ
 
 **Dal server al client, su misura.**
 
@@ -12,7 +11,7 @@ Minecraft Java Edition, con un'ossessione per le prestazioni.
 [![PR su Horizon](https://img.shields.io/github/issues-search/horizon-rust/horizon?query=is%3Apr%20author%3Abreachato%20is%3Amerged&label=PR%20merged%20su%20Horizon&style=flat-square&color=111111&logo=rust&logoColor=white)](https://github.com/horizon-rust/horizon/pulls?q=is%3Apr+author%3Abreachato+is%3Amerged)
 
 ---
-ㅤ
+
 ### Chi sono
 
 Sono Enea, uno sviluppatore italiano. Lavoro soprattutto su Minecraft Java Edition, sia lato server sia lato client.
