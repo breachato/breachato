@@ -4,9 +4,9 @@
 
 Sviluppo engine, framework roleplay e client custom per
 Minecraft Java Edition, con un'ossessione per le prestazioni.
-ㅤ
+
 **Lead Developer** di [Next Roleplay](https://nextroleplay.gg/) · **Fondatore** di Wave Studios · **Contributor** di [Horizon](https://playhorizon.dev/)
-ㅤ
+
 ![Discord](https://img.shields.io/badge/Discord-@breachato-5865F2?style=flat-square&logo=discord&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-@breachatoo-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/breachatoo)
 [![PR su Horizon](https://img.shields.io/github/issues-search/horizon-rust/horizon?query=is%3Apr%20author%3Abreachato%20is%3Amerged&label=PR%20merged%20su%20Horizon&style=flat-square&color=111111&logo=rust&logoColor=white)](https://github.com/horizon-rust/horizon/pulls?q=is%3Apr+author%3Abreachato+is%3Amerged)
