@@ -1,6 +1,7 @@
 ㅤ
 
 **Dal server al client, su misura.**
+
 Sviluppo engine, framework roleplay e client custom per
 Minecraft Java Edition, con un'ossessione per le prestazioni.
 ㅤ
@@ -23,11 +24,11 @@ In parallelo contribuisco a **Horizon**, Minecraft Java Edition riscritto in Rus
 
 | | Progetto | Cosa fa |
 |---|---|---|
-| **01** | **Obsidian** · *server engine* | Il server engine per Minecraft Java Edition che desideravo da sempre. I moduli `.obs` sono firmati e fanno hotswap delle classi: si deployano live in produzione, a server acceso, senza riavvii. Rollback automatico, con anche pannello di gestione integrato. |
-| **02** | **Next Roleplay** · *framework roleplay* | Il framework proprietario che regge l'intero network: core, moduli, sistemi di gioco e tool interni. Ne curo architettura, sviluppo e manutenzione. |
-| **03** | **Fluent Client** · *client custom* | Un client Minecraft 1.21.8 su Fabric costruito da zero: feature integrate, sistemi che non riesco a definire, aggiornamenti automatici e un lavoro maniacale sulle prestazioni. |
-| **04** | **Wave Studios** · *...* | Sviluppo, build e grafica per community e server: plugin su misura, spawn e città costruite nei dettagli, texture pack e models. |
-| **05** | **Cherry** · *plugin pubblici* | [CherryCore](https://github.com/breachato/CherryCore), un core con sistema staff completo e le utility di base, e [CherryGuns](https://github.com/breachato/CherryGuns), un sistema armi con log per lo staff e strumenti di amministrazione. |
+| **01** | **Obsidian** | Il server engine per Minecraft Java Edition che desideravo da sempre. I moduli `.obs` sono firmati e fanno hotswap delle classi: si deployano live in produzione, a server acceso, senza riavvii. Rollback automatico, con anche pannello di gestione integrato. |
+| **02** | **Next Roleplay** | Il framework proprietario che regge l'intero network: core, moduli, sistemi di gioco e tool interni. Ne curo architettura, sviluppo e manutenzione. |
+| **03** | **Fluent Client** | Un client Minecraft 1.21.8 su Fabric costruito da zero: feature integrate, sistemi che non riesco a definire, aggiornamenti automatici e un lavoro maniacale sulle prestazioni. |
+| **04** | **Wave Studios** | Sviluppo, build e grafica per community e server: plugin su misura, spawn e città costruite nei dettagli, texture pack e models. |
+| **05** | **Cherry** | [CherryCore](https://github.com/breachato/CherryCore), un core con sistema staff completo e le utility di base, e [CherryGuns](https://github.com/breachato/CherryGuns), un sistema armi con log per lo staff e strumenti di amministrazione. |
 
 ### Open source
 
